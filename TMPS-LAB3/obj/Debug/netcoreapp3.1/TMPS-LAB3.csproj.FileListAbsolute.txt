@@ -1,0 +1,13 @@
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.exe
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.deps.json
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.json
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.runtimeconfig.dev.json
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.dll
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\bin\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csprojAssemblyReference.cache
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfoInputs.cache
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.AssemblyInfo.cs
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.csproj.CoreCompileInputs.cache
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.dll
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.pdb
+C:\Users\cpole\source\repos\TMPS-LAB3\TMPS-LAB3\obj\Debug\netcoreapp3.1\TMPS-LAB3.genruntimeconfig.cache

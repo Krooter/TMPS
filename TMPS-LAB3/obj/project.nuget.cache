@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJrJb4drJKZIph5vU15G/d5ouYP6o2xMe6as9DTWeT3wx5L20lbI9MsUY+qM/om5/dmGT1AgyiA/z5y4lLPN7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpole\\source\\repos\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

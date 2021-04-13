@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cpole\\source\\repos\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj": {}
+    "D:\\University\\SEM VI\\TMPS\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cpole\\source\\repos\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj": {
+    "D:\\University\\SEM VI\\TMPS\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cpole\\source\\repos\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj",
+        "projectUniqueName": "D:\\University\\SEM VI\\TMPS\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj",
         "projectName": "TMPS-LAB3",
-        "projectPath": "C:\\Users\\cpole\\source\\repos\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj",
+        "projectPath": "D:\\University\\SEM VI\\TMPS\\TMPS-LAB3\\TMPS-LAB3\\TMPS-LAB3.csproj",
         "packagesPath": "C:\\Users\\cpole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cpole\\source\\repos\\TMPS-LAB3\\TMPS-LAB3\\obj\\",
+        "outputPath": "D:\\University\\SEM VI\\TMPS\\TMPS-LAB3\\TMPS-LAB3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cpole\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.12, 3.1.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

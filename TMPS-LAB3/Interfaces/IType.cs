@@ -5,7 +5,7 @@ using TMPS_LAB3.Types;
 
 namespace TMPS_LAB3.Interfaces
 {
-    public interface IType : ICloneable
+    public interface IType : System.ICloneable
     {
         public int Id { get; set; }
         public string Owner { get; set; }

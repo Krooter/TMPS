@@ -5,7 +5,7 @@ using TMPS_LAB3.Types;
 
 namespace TMPS_LAB3.Interfaces
 {
-    public interface IProtection : ICloneable
+    public interface IProtection : System.ICloneable
     {
         public string ProtectionType { get; set; }
         public AsigType Type { get; set; }

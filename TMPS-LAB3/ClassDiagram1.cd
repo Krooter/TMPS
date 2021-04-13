@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TMPS_LAB3.Factories.Level1Factory" BaseTypeListCollapsed="true">
+    <Position X="1.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Factories\Level1Factory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Factories.Level2Factory" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Factories\Level2Factory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Map.Crush" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>Map\Crush.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Map.Robbery" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>Map\Robbery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Enemies.Car" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAABA=</HashCode>
+      <FileName>Types\Car.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Enemies.House" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAABA=</HashCode>
+      <FileName>Types\House.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TMPS_LAB3.Program">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TMPS_LAB3.Interfaces.ILevelFactory">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Interfaces\ILevelFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TMPS_LAB3.Interfaces.IProtection">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IProtection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TMPS_LAB3.Interfaces.IType">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IType.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.ICloneable">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

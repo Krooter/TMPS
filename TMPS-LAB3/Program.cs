@@ -53,7 +53,7 @@ namespace TMPS_LAB3
                         var type2 = (IType)type.Clone();
                         type2 = asigurationHouse.CreateAsigurationType(name, 2, AsigType.Casa);
                         var protection2 = (IProtection)protection.Clone();
-                        protection2 = asigurationHouse.CreateProtection("Stracovka la pula", AsigType.Casa);
+                        protection2 = asigurationHouse.CreateProtection("Protectia contra furturilor", AsigType.Casa);
                         type2.Create();
                         protection2.Apply();
                     }
@@ -93,7 +93,7 @@ namespace TMPS_LAB3
                         var type2 = (IType)typeCar.Clone();
                         type2 = asigurationCar.CreateAsigurationType(name, 2, AsigType.Casa);
                         var protection2 = (IProtection)protectionCar.Clone();
-                        protection2 = asigurationCar.CreateProtection("Stracovka la pula", AsigType.Casa);
+                        protection2 = asigurationCar.CreateProtection("Protectie contra furturilor", AsigType.Casa);
                         type2.Create();
                         protection2.Apply();
                     }
